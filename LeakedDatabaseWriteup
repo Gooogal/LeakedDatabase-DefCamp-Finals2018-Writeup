@@ -3,7 +3,8 @@ Connecting to dbleaks.dctf18-finals.def.camp:13021 we get:
 1)User info:
 [3, 'ANA', '4baefe6e504e8866c0d2bc3956f372e2', 'Y2']
 
-We can deduce that 3 is the index in the table, 'ANA' is the user's name '4baefe6e504e8866c0d2bc3956f372e2'is the MD5 of the password and 'Y2' is the salt.
+We can deduce that 3 is the index in the table, 'ANA' is the user's name '4baefe6e504e8866c0d2bc3956f372e2'is the MD5 of the 
+password and 'Y2' is the salt.
 
 2)Ads:
 [34, 'You can buy any 3 products with a 26% discount by next month at AwesomeMAG.', '2/28'],
