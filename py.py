@@ -9,6 +9,7 @@ while (ok == 0):
 		data = eval(data)
 		ok = 1
 	except:
+		#the server had some connectivity issues
 		time.sleep(1)
 
 pers = {}
